@@ -18,6 +18,7 @@ void resolution(double a, double b, double c)
     }
     else {
         printf("solution impossible");
+        printf("solution");
     }
 }
 int main()
