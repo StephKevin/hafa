@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708464677 source:d:\étude\programme c\equa_2nd_procedure\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
